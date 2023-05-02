@@ -1,0 +1,6 @@
+.bg1{
+    background-image: url("../assets/10010.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(5px);
+}
